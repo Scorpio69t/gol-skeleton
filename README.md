@@ -1,5 +1,9 @@
 # CSA Coursework: Game of Life
 
+## effect drawing
+
+![effect drawing](content/gol.gif)
+
 **[Video Walkthrough of Parallel Component (skip to 04:20 to skip IntelliJ install and project opening steps)](https://web.microsoftstream.com/video/990e039f-4bc1-4b22-b0b1-ae895ee07163)** Please note that the rest of assignment will be introduced after reading week
 
 **[Video Walkthrough of Distributed Component](https://web.microsoftstream.com/video/604c97e7-d0a6-4fb0-8a3b-52948a740983)** 
