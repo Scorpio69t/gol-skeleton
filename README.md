@@ -1,5 +1,9 @@
 # CSA Coursework: Game of Life
 
+## contact information
+  QQ：3324729792
+  WX：coder199608
+
 ## effect drawing
 
 ![effect drawing](content/gol.gif)
